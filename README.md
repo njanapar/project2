@@ -75,8 +75,5 @@ We will measure success based on the ability of the robot to:
 - **Ultrasonic sensor holder** ×3
 - **Switch and jumper wires**
 
-## Human Following Robot Circuit Diagram
-Here is the schematic diagram of the Human-following robot circuit:
 
-![Human Following Robot Circuit](./human-following-robot-circuit.png)
 
